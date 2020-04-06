@@ -7,16 +7,16 @@ after that  you ready to go
 
 ## HOW TO USE IT
 
-### from functions import bulksms
-### from index import Sendsms
+#### from functions import bulksms
+#### from index import Sendsms
 
-cre =Sendsms()
-usernam=cre.username("enter your username")
-passwor=cre.password("password")
+#### cre =Sendsms()
+#### usernam=cre.username("enter your username")
+#### passwor=cre.password("password")
 
-bulksms('phone','edit smsname',' edit message',usernam,passwor)
+#### bulksms('phone','edit smsname',' edit message',usernam,passwor)
 
-print(bulksms)
+#### print(bulksms)
 
 
 
