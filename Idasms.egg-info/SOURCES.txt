@@ -1,8 +1,7 @@
 README.md
 setup.py
-Idasms.egg-info/PKG-INFO
-Idasms.egg-info/SOURCES.txt
-Idasms.egg-info/dependency_links.txt
-Idasms.egg-info/not-zip-safe
-Idasms.egg-info/requires.txt
-Idasms.egg-info/top_level.txt
+idasms.egg-info/PKG-INFO
+idasms.egg-info/SOURCES.txt
+idasms.egg-info/dependency_links.txt
+idasms.egg-info/not-zip-safe
+idasms.egg-info/top_level.txt
